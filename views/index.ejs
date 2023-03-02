@@ -43,7 +43,9 @@
         <h2>Already Booked Seats</h2>
         <ul>
           <% val1.forEach(function(item) { %>
-          <li><%= item.bookSeat %></li>
+          <li>
+            <%= item.bookSeat %> <i><b>ID</b></i> - <b> <%= item._id %> </b>
+          </li>
           <% }); %>
         </ul>
       </div>
@@ -67,7 +69,9 @@
         <h2>Already Booked Seats</h2>
         <ul>
           <% val2.forEach(function(item) { %>
-          <li><%= item.bookSeat %></li>
+          <li>
+            <%= item.bookSeat %> <i><b>ID</b></i> - <b> <%= item._id %> </b>
+          </li>
           <% }); %>
         </ul>
       </div>
@@ -92,7 +96,9 @@
         <h2>Already Booked Seats</h2>
         <ul>
           <% val3.forEach(function(item) { %>
-          <li><%= item.bookSeat %></li>
+          <li>
+            <%= item.bookSeat %> <i><b>ID</b></i> - <b> <%= item._id %> </b>
+          </li>
           <% }); %>
         </ul>
       </div>
