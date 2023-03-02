@@ -3,8 +3,8 @@
 How to Use 
 
 * First Create a ```.env``` file
-* Add ```PORT``` and ```URI``` , URI represnt the mongoDB url.
-* Then run ```npm install``` to install all depencies.
+* Add ```PORT``` and ```URI``` in dotenv file, URI represnt the mongoDB url.
+* Then run ```npm install``` to install all dependcies.
 * Then type ``` npm start ```
 
 * Then visit ``` localhost:2000/book ```
