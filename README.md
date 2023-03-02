@@ -11,7 +11,8 @@ How to Use
 
 Screen Shot of output.
 
-![Screenshot (49)](https://user-images.githubusercontent.com/64978605/222408593-9dcf3d96-fe51-42f7-8f7d-918f1ef63317.png)
+![Screenshot (51)](https://user-images.githubusercontent.com/64978605/222412708-0f97974c-4e3a-445b-9752-b3b97e8c55a5.png)
+
 
 ### Assignment Tasks
 
